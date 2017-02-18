@@ -1,0 +1,1 @@
+document.getElementById("h").innerHTML = "القرءان الكريم كاملا بصوت الشيخ المشاري العفاسي";
